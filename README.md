@@ -1,5 +1,5 @@
 # Py-Projects
-#####A collection of logic tests and simulations I've created using P3.
+### A collection of logic tests and simulations I've created using P3.
 
 App Descriptions:
 
